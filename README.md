@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm JCAlways
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JCAlways&show_icons=true" />
+- 🔭 I’m currently working on FrontEnd
+- 🌱 I’m currently learning Rust
+- 💬  [Ask me about anything here](https://github.com/JCAlways/JCAlways/issues)
+- 👀  [![Page Views Count](https://badges.toozhao.com/badges/01HFAWWMNT7WHT9JFSVRJ0TTYS/green.svg)](https://badges.toozhao.com/stats/01HFAWWMNT7WHT9JFSVRJ0TTYS "Get your own page views count badge on badges.toozhao.com")
 
+<img src="https://github-readme-stats.vercel.app/api?username=JCAlways&show_icons=true" />
 <!--
 **JCAlways/JCAlways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Page Views Count](https://badges.toozhao.com/badges/01HFAWWMNT7WHT9JFSVRJ0TTYS/green.svg)](https://badges.toozhao.com/stats/01HFAWWMNT7WHT9JFSVRJ0TTYS "Get your own page views count badge on badges.toozhao.com")
