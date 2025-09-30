@@ -1,11 +1,3 @@
-### Hi 👋, I'm JCAlways
-
-- 🔭 I’m currently working on FrontEnd
-- 🌱 I’m currently learning Rust
-- 💬  [Ask me about anything here](https://github.com/JCAlways/JCAlways/issues)
-- 👀  [![Page Views Count](https://badges.toozhao.com/badges/01HFAWWMNT7WHT9JFSVRJ0TTYS/green.svg)](https://badges.toozhao.com/stats/01HFAWWMNT7WHT9JFSVRJ0TTYS "Get your own page views count badge on badges.toozhao.com")
-
-<img src="https://github-readme-stats.vercel.app/api?username=JCAlways&show_icons=true" />
 <!--
 **JCAlways/JCAlways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I am JCAlways
+<img src="https://github-readme-stats.vercel.app/api?username=JCAlways&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" align="right" />
+
+<br />
+
+- 🔭 I’m currently working on FrontEnd
+- 🌱 I’m currently learning Rust
+- 💬  [Ask me about anything here](https://github.com/JCAlways/JCAlways/issues)
+- 👀  ![](https://komarev.com/ghpvc/?username=jcalways&color=green)
