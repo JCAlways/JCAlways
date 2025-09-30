@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I am JCAlways
-<img src="https://github-readme-stats.vercel.app/api?username=JCAlways&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" align="right" />
+<img src="https://github-readme-stats-peach-eight-42.vercel.app/api?username=JCAlways&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" align="right" />
 
 <br />
 
